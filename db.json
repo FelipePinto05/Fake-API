@@ -72,6 +72,33 @@
         "Categoria": "INOVACIÓN Y GESTIÓN",
         "Descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa."
       }
+
+        {
+    "id": "1736770223108",
+    "Titulo": "¿Por qué utilizar Java actualmente?",
+    "Imagen": "https://i.ytimg.com/vi/3kNuK-XAHEY/hqdefault.jpg",
+    "Video": "https://www.youtube.com/watch?v=3kNuK-XAHEY&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=13",
+    "Categoria": "BACK END",
+    "Descripcion": "En este video, hablaremos de lo último en el lenguaje y la plataforma Java y de por qué debería ser tu elección para un próximo proyecto."
+  },
+
+        {
+    "id": "1736902971697",
+    "Titulo": "¿Cómo es el día a día de una Científica de Datos?",
+    "Imagen": "https://i.ytimg.com/vi/cOvpf3Q-ii4/hqdefault.jpg",
+    "Video": "https://www.youtube.com/watch?v=cOvpf3Q-ii4&list=PLNKOkLkhi1Ke9j-o8dn6pdG38VPhAoJ1Y&index=15",
+    "Categoria": "INNOVACIÓN Y GESTIÓN",
+    "Descripcion": "Ven y conoce como es el día a día laboral de una persona que trabaja con datos y como al interpretarlos genera valor para la empresa."
+  },
+
+        {
+    "id": "1736903702319",
+    "Titulo": "Especialidad BACKEND | RESUMEN SEMANA 1 - 3 | Oracle Next Education + Alura Latam",
+    "Imagen": "https://i.ytimg.com/vi/b71kWley8-o/maxresdefault.jpg",
+    "Video": "https://www.youtube.com/watch?v=b71kWley8-o",
+    "Categoria": "BACK END",
+    "Descripcion": "Bienvenidos al Resumen de la semana 1, 2 y 3 de la especialización en Backend de Oracle Next Education"
+  }
       
     ]
   }
